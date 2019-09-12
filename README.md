@@ -14,8 +14,8 @@ Requirements:
 
 ```
 Usage:
-    $base search
+    $base "search"
 
 Specify amount of results using 'amount' (default=5):
-    amount=10 $base search
+    amount=10 $base "search"
 ```
